@@ -1,4 +1,4 @@
-# FastAPI + Dependency Injector + Celery 프로젝트
+# FastAPI + Dependency Injector + Celery Project
 
 This project serves as a reference implementation using FastAPI, Dependency Injector, and Celery.
 
