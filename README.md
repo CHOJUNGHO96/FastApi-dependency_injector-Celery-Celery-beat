@@ -8,7 +8,7 @@ This project serves as a reference implementation using FastAPI, Dependency Inje
 3. Launch the services with the following command: `docker-compose up --build`
 4. Access the application in your browser at `localhost:8000.`
 
-## 환경 변수
+## Environment Variables
 - `CELERY_BROKER_URL`: The broker URL for Celery (e.g.,` redis://redis:6379/0`)
 
 ## Execution Test
